@@ -19,7 +19,7 @@ Web application built in Spring Tool Suite. Allows users to store their favorite
 
 # Landing Page
 
-[![portfolio](src/Screenshot%202023-07-12%20155718.png)
+[![portfolio](src/Screenshot%202023-07-12%20155659.png)
 
 
 # Create Book Title
