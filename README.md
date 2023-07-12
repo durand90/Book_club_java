@@ -19,12 +19,21 @@ Web application built in Spring Tool Suite. Allows users to store their favorite
 
 # Landing Page
 
+![App Screenshot](src/main/webapp/WEB-INF/books/Screenshot%202023-07-12%20155659.png
+)
+src/main/webapp/WEB-INF/books/Screenshot 2023-07-12 155659.png
 
 # Create Book Title
 
+![App Screenshot](src/main/webapp/WEB-INF/books/Screenshot%202023-07-12%20155631.png)
+
 # Edit Title
 
+![App Screenshot](src/main/webapp/WEB-INF/books/Screenshot%202023-07-12%20155631.png)
+
 # View Title
+
+![App Screenshot](src/main/webapp/WEB-INF/books/Screenshot%202023-07-12%20155631.png)
 
 
 ## 🛠 Skills
