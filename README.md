@@ -14,6 +14,8 @@ Web application built in Spring Tool Suite. Allows users to store their favorite
 
 # Login/Register
 
+![App Screenshot](src/main/webapp/WEB-INF/books/Screenshot%202023-07-12%20155631.png)
+
 
 # Landing Page
 
