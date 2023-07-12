@@ -29,7 +29,7 @@ src/main/webapp/WEB-INF/books/Screenshot 2023-07-12 155659.png
 
 # Edit Title
 
-![App Screenshot](src/main/webapp/WEB-INF/books/Screenshot%202023-07-12%20155631.png)
+![App Screenshot](src/main/webapp/WEB-INF/books/Screenshot%202023-07-12%20155710.png)
 
 # View Title
 
