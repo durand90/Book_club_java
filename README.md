@@ -14,16 +14,24 @@ Web application built in Spring Tool Suite. Allows users to store their favorite
 
 # Login/Register
 
+[![portfolio](src/Screenshot%202023-07-12%20155718.png)
+
 
 # Landing Page
+
+[![portfolio](src/Screenshot%202023-07-12%20155718.png)
 
 
 # Create Book Title
 
 # Edit Title
 
+[![portfolio](src/Screenshot%202023-07-12%20155718.png)
+
+
 # View Title
 
+[![portfolio](src/Screenshot%202023-07-12%20155710.png)
 
 ## 🛠 Skills
 Java, HTML, CSS, JSP, Apache Maven, Apache Tomcat, Spring Tool Suite, MySQL Server, Trello, Balsamiq, Object-Orient-Programming (OOP)
